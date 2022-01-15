@@ -61,6 +61,8 @@ ___
 
 - `git clone <원격 저장소 주소>`의 형태로 작성합니다.
 
+- [git clone]을 했다는것은 `mkdir`&`git init` &`git remote`&`version` 을 복제했다는 의미
+
   
 
 #### <  clone 사용 방법 >
